@@ -1,2 +1,2 @@
-# code-refractor
-Code refractor homework UFC bootcamp
+# code-refactor
+Code refactor homework UFC bootcamp
