@@ -88,7 +88,7 @@ aside {
 }
 
 /* combined lines 97 and 101 with 90 to load faster changed to section */
-section {
+article {
   margin-bottom: 32px;
   color: #ffffff;
 }
@@ -103,7 +103,7 @@ section {
 } */
 
 /* combined lines 113 and 118 with 106 to load faster changed to section */
-section h3 {
+article h3 {
   margin-bottom: 10px;
   text-align: center;
 }
@@ -119,7 +119,7 @@ section h3 {
 } */
 
 /* combined lines 131 and 137 with 123 to load faster changed to section*/
-section img {
+article img {
   display: block;
   margin: 10px auto;
   max-width: 150px;
